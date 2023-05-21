@@ -22,4 +22,17 @@
     padding: 8px 12px;
     cursor: pointer;
   }
+
+  .list {
+    list-style: none;
+  }
+
+  .link {
+    text-decoration: none;
+}
+
+  .gallery {
+    display: flex;
+    justify-content: space-between;
+  }
   
